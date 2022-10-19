@@ -1,0 +1,6 @@
+{
+  "require": {
+    "tamtamchik/simple-flash": "^2.0",
+    "phpauth/phpauth": "^1.4"
+  }
+}
